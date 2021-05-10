@@ -3,14 +3,20 @@
 
 ### About
 
-**Mission statement**: A student-led initiative, focusing on reducing mass incarceration on the front end by concentrating on the pretrial process, for young adults. 
+**Mission statement**: A student-led initiative focusing on reducing mass incarceration on the front end by concentrating on the pretrial process, for young adults. 
 
 **Changing the World**
 - Reduce mass incarceration on the front end by focusing on the pre-trial process.
 - Cut through the bureaucracy that impedes people.
 - Help young adults (24 and under) who were formerly incarcerated reintegrate into society with essential resources and opportunities.
 
-**Minimum Viable Product**
+
+**Check out this sneak peek of the demo for the JustUs app**
+
+
+<add embed code here>
+  
+**Our Goals for JustUs**
 - Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
 - Allow users to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
 
