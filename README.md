@@ -1,36 +1,54 @@
-## Welcome to GitHub Pages
+## Welcome to JustUs
 
-You can use the [editor on GitHub](https://github.com/GusdaPug/JustUs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+**Mission statement**: A student-led initiative, focusing on reducing mass incarceration on the front end by concentrating on the pretrial process, for young adults. 
 
-MArk is my dads name
-```markdown
-Syntax highlighted code block
+**Changing the World**
+- Reduce mass incarceration on the front end by focusing on the pre-trial process.
+- Cut through the bureaucracy that impedes people.
+- Help young adults (24 and under) who were formerly incarcerated reintegrate into society with essential resources and opportunities.
 
-# Header 1
-## Header 2
-### Header 3
+**Minimum Viable Product**
+- Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
+- Allow users to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
 
-- Bulleted
-- List
+**Target Audience**
+- Young adults (16-24)
+- People currently awaiting trial.
+- Public defenders and outreach programs (in future roll outs)
 
-1. Numbered
-2. List
+**Minimum Viable Product**
+- Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
+- Allow users to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
 
-**Bold** and _Italic_ and `Code` text
+**Target Audience**
+- Young adults (16-24)
+- People currently awaiting trial.
+- Public defenders and outreach programs (in future roll outs)
 
-[Link](url) and ![Image](src)
+**Journey** 
+*insert demo pictures*
+
+**Future Functionality**
+- Replicate this process for other stages of the criminal justice system.
+- Chat functionality for quick questions and answers.
+- Mini videos and in-app resources/tutorials. 
+
+**Expansion**
+- Taking others on to the team for development and updates.
+
+**Use Cases**
+- Scenario for user: How to find a specific lawyer
+- User opens app to home page
+- User clicks “Legal” resource
+- User types “Ted Oxholm” in search bar
+- If results found, display w pop up 
+
+
+
+
+[Link](url) and ![Image](src) **Helpful for Dante to insert Figma Link**
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GusdaPug/JustUs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
