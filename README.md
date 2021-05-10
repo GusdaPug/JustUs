@@ -34,23 +34,14 @@
 - People currently awaiting trial.
 - Public defenders and outreach programs (in future roll outs)
 
-**Journey** 
-*insert demo pictures*
-
 **Future Functionality**
 - Replicate this process for other stages of the criminal justice system.
 - Chat functionality for quick questions and answers.
 - Mini videos and in-app resources/tutorials. 
 
-**Expansion**
+**Call to Action**
 - Taking others on to the team for development and updates.
 
-**Use Cases**
-- Scenario for user: How to find a specific lawyer
-- User opens app to home page
-- User clicks “Legal” resource
-- User types “Ted Oxholm” in search bar
-- If results found, display w pop up 
 
 
 
