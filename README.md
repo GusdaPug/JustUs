@@ -14,7 +14,7 @@
 **Check out this sneak peek of the demo for the JustUs app**
 
 
-<add embed code here>
+<<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgAGvdeiZb9oPh0HncvYm7r%2FJustUs-Demo" allowfullscreen></iframe>>
   
 **Our Goals for JustUs**
 - Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
