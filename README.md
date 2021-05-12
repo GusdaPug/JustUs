@@ -31,7 +31,7 @@
 - Mini videos and in-app resources/tutorials. 
 
 **Call to Action**
-- We are eager to collaborate with individuals passionate about the social justice system and/or helping previoulsy incarcerated yong adults integrate back into society. 
+We are eager to collaborate with individuals passionate about the social justice system and/or helping previoulsy incarcerated yong adults integrate back into society. 
 - Calling on developers and designers to help build prototypes to later roll out.
 - Calling on researchers to expand and keep our database of resources updated.
 - Calling on media experts to establish and maintain our digital presence. 
