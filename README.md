@@ -5,7 +5,7 @@
 
 **Mission statement**: A student-led initiative focusing on reducing mass incarceration on the front end by concentrating on the pretrial process, for young adults. 
 
-**Changing the World**
+**Change the World**
 - Reduce mass incarceration on the front end by focusing on the pre-trial process.
 - Cut through the bureaucracy that impedes people.
 - Help young adults (24 and under) who were formerly incarcerated reintegrate into society with essential resources and opportunities.
