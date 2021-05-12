@@ -38,7 +38,7 @@
 - Collaborating with individuals passionate about the social justice system and/or helping the previoulsy incarcerated integrate back into society. 
 
 **Our Founders**
-- We are a group of students from the Philadelphia area who are driven to give previously incarcerated individuals a road to success. Collaboration with people passionate about our cause is a fundamental goal of JustUS. 
+- We are a group of students from the Philadelphia area who are driven to give previously incarcerated individuals a road to success. Collaboration with people passionate about our cause is a fundamental goal of JustUS.  
 
 
 
