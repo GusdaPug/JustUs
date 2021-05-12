@@ -3,7 +3,7 @@
 
 ### About
 
-**Mission statement**: A student-led initiative focusing on reducing mass incarceration on the front end by concentrating on the pretrial process, for young adults. 
+**Mission statement**: A student-led initiative focusing on reducing mass incarceration on the front end by concentrating on the pre-trial process, for young adults. 
 
 **Change the World**
 - Reduce mass incarceration on the front end by focusing on the pre-trial process.
@@ -37,6 +37,8 @@ We are eager to collaborate with individuals passionate about the social justice
 - Calling on researchers to expand and keep our database of resources updated.
 - Calling on media experts to establish and maintain our digital presence. 
 - Calling on any and all social organizers that are passionate about prison reform.
+
+If you are interested in working with us [please fill out this form.](https://forms.gle/aCjtjEZoxFfn1ULj9) or email:justusoutreach@gmail.com
 
 **Our Founders**
 - We are a group of students from the Philadelphia area who are driven to give previously incarcerated individuals a road to success. Collaboration with people passionate about our cause is a fundamental goal of JustUS.  
