@@ -16,18 +16,14 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FgAGvdeiZb9oPh0HncvYm7r%2FJustUs-Demo%3Fnode-id%3D2%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
-**Our Goals for JustUs**
-- Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
+**Goals for JustUs**
+- Help people navigate the (pre-trial process)[https://www.americanbar.org/content/dam/aba/images/public_education/case-diagram.png] by making an easy to use and visually appealing mobile application.
 - Allow users to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
 
-**Target Audience**
-- Young adults (16-24)
-- People currently awaiting trial.
-- Public defenders and outreach programs (in future roll outs)
 
-**Minimum Viable Product**
-- Help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
-- Allow users to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
+**Create + manage a mobile application**
+- To help people navigate the pre-trial process by making an easy to use and visually appealing mobile application.
+- To allow people to access resources and contacts to guide them through the pre-entry phase of the criminal justice system.
 
 **Target Audience**
 - Young adults (16-24)
